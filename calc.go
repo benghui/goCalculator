@@ -1,5 +1,5 @@
-package calc
+package main
 
-func Add(val1, val2 int) {
-  return val1 + val2
+func Add(a, b int) int {
+	return a + b
 }
